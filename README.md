@@ -14,7 +14,7 @@ The system operates as a closed loop that monitors, analyzes, and responds to co
 Network traffic data is captured directly from the Kubernetes cluster.
 
 ### 2. Feature Processing
-Key flow metrics—such as connection duration and throughput (bytes per second)—are extracted from the traffic records.
+Key flow metrics such as connection duration and throughput (bytes per second) are extracted from the traffic records.
 
 ### 3. Machine Learning Inference
 A trained Random Forest classifier evaluates these features to distinguish normal behavior from anomalies.
