@@ -52,3 +52,5 @@ The Random Forest classifier was evaluated using a combined dataset of **158,621
 
 ## Summary
 This project demonstrates how machine learning can provide proactive, real-time protection for containerized environments by detecting and responding to threats based on behavioral patterns rather than static signatures.
+
+For more details, use the link : https://drive.google.com/drive/folders/1qiWa0uQj-mnb763m0ka3St-CQGAgn3vF?usp=sharing
